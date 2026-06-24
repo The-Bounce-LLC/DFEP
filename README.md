@@ -29,11 +29,6 @@ Transform files into a portable encrypted package (.dfep). DFEP is a Python-base
   python3 dfep.py -e path/to/file          # Encrypt
   python3 dfep.py -d path/to/file.dfep     # Decrypt
   ```
-- For optimized runs (auto-detected settings, created by optimize.py), use:
-  ```bash
-  python3 optimize.py        # generates .dfep_optimized.json and dfep_optimized.py
-  python3 dfep_optimized.py -e file
-  ```
 
 ## CLI / Usage
 - Encrypt: python3 dfep.py -e <file_path>
