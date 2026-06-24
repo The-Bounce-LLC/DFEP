@@ -102,4 +102,4 @@ When compression is used, DFEP writes a binary header:
 ## Contribution & license
 Contributions welcome. Open an issue or PR with focused changes (security fixes or tests prioritized). Include tests and a short design note for nontrivial cryptographic changes.
 
-License: `Non-Commercial Use License` — please add a LICENSE file to the repository.
+License: `Non-Commercial Use License`.
