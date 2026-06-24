@@ -18,7 +18,7 @@ Requirements:
 - No external dependencies (script uses Python stdlib)
 
 Clone and run:
-```code
+```python
 git clone https://github.com/The-Bounce-LLC/DFEP.git
 cd DFEP
 python3 dfep.py -e path/to/file           # encrypt (interactive password prompt)
